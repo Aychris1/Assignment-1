@@ -26,6 +26,7 @@ height: 37px;
     font: normal normal 600 50px/40px Poppins;
     letter-spacing: 0px;
 }
+
 .login-signup {
     position: absolute;
     right: 50px;
@@ -151,7 +152,7 @@ color: #8C96AB;
     border-radius: 15px;
     width: 100px;
     height: 100px;
-    transparent url('img/shutterstock_1154073754.png') 0% 0% no-repeat padding-box;
+   
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 0px 3px 6px #00000029;
     }
